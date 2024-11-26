@@ -22,29 +22,6 @@ Recurrent Neural Networks (RNNs) are powerful for processing sequential data lik
 - **Prediction**:
   - Easy-to-use interface for predicting sentiment from custom text inputs.
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your_username/RNN_Text_Classifier.git
-   cd RNN_Text_Classifier
-   ```
-2. Usage
-  - Data Preparation:
-        Place training and validation datasets in the data/ directory with appropriate CSV formatting.
-        Update file paths in the notebook if necessary.
-
-    - Run the Model:
-        Open the notebook:
-
-        ```jupyter notebook NLP_with_RNN.ipynb```
-        Execute cells to preprocess data, train the model, and evaluate performance.
-      
-  - Make Predictions:
-Use the interactive prediction cell in the notebook to classify text sentiment.
-
-
-
-
 ## Example Prediction
 
 ```python
